@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/page-ocr/static/css/main.dee57301.css",
+    "main.js": "/page-ocr/static/js/main.9eab1697.js",
+    "index.html": "/page-ocr/index.html",
+    "main.dee57301.css.map": "/page-ocr/static/css/main.dee57301.css.map",
+    "main.9eab1697.js.map": "/page-ocr/static/js/main.9eab1697.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dee57301.css",
+    "static/js/main.9eab1697.js"
+  ]
+}
